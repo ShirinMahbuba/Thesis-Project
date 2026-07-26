@@ -140,8 +140,6 @@ CardioFormer-XGB outperforms FT-Transformer alone on 4 of 5 metrics on a complet
 
 ## 👤 Author
 
-[Shirin Mahbuba,Tanjila Habib Srabony ] — Undergraduate Thesis Project, [American International University-Bangladesh], 2026
+[Shirin Mahbuba,Tanjila Habib Srabony.Sanjida Disha ] — Undergraduate Thesis Project, [American International University-Bangladesh], 2026
 
-## 📄 License
 
-MIT License
